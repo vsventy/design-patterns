@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+
 """
 The facade pattern is used to define a simplified interface to a more complex
 subsystem.

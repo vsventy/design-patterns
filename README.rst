@@ -15,11 +15,4 @@ The Facade
 
 Provides a simplified interface to a large body of code.
 
-.. figure:: https://upload.wikimedia.org/wikipedia/commons/9/96/W3sDesign_Facade_Design_Pattern_UML.jpg
-
-   UML class and sequence diagram.
-
-   `Wikimedia Commons`_ / `Vanderjoe`_
-
-.. _`Wikimedia Commons`: https://commons.wikimedia.org/wiki/Main_Page
-.. _`Vanderjoe`: https://commons.wikimedia.org/wiki/User:Vanderjoe
+.. image:: diagrams/facade.png
